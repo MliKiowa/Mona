@@ -14,5 +14,7 @@
 5.dns预解析
 
 6.代码压缩
+# Need
+NProgress.js 提供进度条 可选
 # Done
 正在制作中
